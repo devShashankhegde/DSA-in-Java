@@ -6,7 +6,7 @@ This repository contains my Java solutions for various **Data Structures and Alg
 
 ## 🙋‍♂️ About Me
 
-Hi! I'm **Shashank Hegde**, a Computer Science student at **BNMIT**, passionate about solving problems using **Java** and improving my skills in **Data Structures and Algorithms**.
+Hi! I'm **Shashank Hegde**, a Computer Science student, passionate about solving problems using **Java** and improving my skills in **Data Structures and Algorithms**.
 
 I believe in consistent practice and learning by doing — this repo reflects my journey in mastering DSA concepts.
 
